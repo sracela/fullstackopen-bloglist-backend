@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5f9ae1cb114b6933458c5112
+Content-Type: application/json
+
+{
+    "title": "HL s Easy",
+    "author": "me",
+    "url": "sracle.com",
+    "likes": 5
+  }

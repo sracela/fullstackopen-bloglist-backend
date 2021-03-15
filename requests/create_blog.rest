@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+	"title": "Prueba middleware",
+	"author": "saritdsaa",
+	"url": "ñsaddsadapq.com",
+	"likes": 10
+}
